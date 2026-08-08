@@ -20,7 +20,4 @@ CNN + Firefly optimization, 7-class disorder classification. Accuracy improved 8
 TF-IDF + Logistic Regression, 78% weighted F1 across 10 genres.
 
 ## 🛠️ Tech Stack
-Python · PyTorch · TensorFlow · Keras · LangChain · FAISS · HuggingFace · React.js · FastAPI · SQL · GitMovie Genre Prediction (NLP)
-Multi-class text classification on the CMU Movie Summary Corpus — TF-IDF + Logistic Regression, 78% weighted F1 across 10 genres.
-🛠️ Tech Stack
-Python PyTorch TensorFlow Keras LangChain FAISS HuggingFace React.js FastAPI SQL Git
+Python · PyTorch · TensorFlow · Keras · LangChain · FAISS · HuggingFace · React.js · FastAPI · SQL · Git
