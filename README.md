@@ -1,7 +1,7 @@
 Hi, I'm Deekshita 👋
 AI/ML Engineer | B.Tech CSE (2025) | CGPA 8.93 — Top 5% of graduating class
 I build end-to-end ML/AI systems from data pipelines to deployed models with a focus on
-Generative AI, deep learning, and applied healthcare AI.
+Generative AI, deep learning and applied healthcare AI.
 🔭 Currently open to AI/ML Engineer, Software Engineer and Data Science roles (India + remote/international)
 🌱 Learning: advanced RAG architectures, cloud ML deployment (AWS/GCP)
 📫 Reach me: deekshitapilaka@gmail.com | LinkedIn
