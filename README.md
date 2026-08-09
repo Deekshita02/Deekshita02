@@ -10,14 +10,11 @@ I build end-to-end ML/AI systems, from data pipelines to deployed models with a 
 
 ## 🚀 Featured Projects
 
-**PDF Q&A Chatbot (RAG + LLMs)**
-LangChain, FAISS, HuggingFace, OpenAI API, FastAPI. Full RAG pipeline from ingestion to generation.
+**[PDF Q&A RAG Chatbot](https://github.com/Deekshita02/pdf-rag-chatbot)**
+Retrieval-Augmented Generation chatbot — LangChain, FAISS, Sentence-Transformers, Gemini API. Full pipeline: chunking, embedding, vector search, grounded generation.
 
-**Mental Health EEG Classification (Deep Learning + IoT)**
+**Mental Health EEG Classification (Deep Learning + IoT)** — *group research project, co-author*
 CNN + Firefly optimization, 7-class disorder classification. Accuracy improved 85% → 98%.
-
-**Movie Genre Prediction (NLP)**
-TF-IDF + Logistic Regression, 78% weighted F1 across 10 genres.
 
 ## 🛠️ Tech Stack
 Python · PyTorch · TensorFlow · Keras · LangChain · FAISS · HuggingFace · React.js · FastAPI · SQL · Git
