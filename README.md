@@ -1,8 +1,8 @@
 # Hi, I'm Deekshita 👋
 
-**AI/ML Engineer | B.Tech CSE 2025 | CGPA 8.93 — Top 5%**
+**AI/ML Engineer | B.Tech CSE 2025 | CGPA 8.93 
 
-I build end-to-end ML/AI systems, from data pipelines to deployed models with a focus on Generative AI, deep learning and applied healthcare AI.
+I build end-to-end ML/AI systems from data pipelines to deployed models with a focus on Generative AI, deep learning and applied healthcare AI.
 
 - 🔭 Open to AI/ML Engineer, Software Engineer and Data Science roles (India + remote/international)
 - 🌱 Learning: advanced RAG architectures, cloud deployment (AWS/GCP)
