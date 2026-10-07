@@ -28,8 +28,11 @@ Group research project, co-author — 7-class EEG-based mental disorder classifi
 🛠️ Tech Stack
 
 **AI / ML & GenAI:** PyTorch, TensorFlow, Keras, CNN, Scikit-learn, LangChain, LangGraph, FAISS, Sentence-Transformers, Google Gemini API, Groq API, RAG, Prompt Engineering, Agent Evaluation & Guardrails
+
 **Languages:** Python, JavaScript, Java, C++
+
 **Web & Data:** React.js, REST APIs, FastAPI, Pandas, NumPy, MySQL, PostgreSQL
+
 **Tools:** Git, GitHub, VS Code, Google Colab, Streamlit Cloud, Jira, Agile/SDLC
 
 📫 Reach me at deekshitapilaka@gmail.com — open to AI/ML engineering roles, relocation-ready.
